@@ -66,7 +66,7 @@ Here are a few projects I'm proud of:
 
 ## 🔥 Contribution Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KushKK29&theme=github-compact)](https://github.com/KushKK29)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KushKK29&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
