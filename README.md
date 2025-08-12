@@ -40,6 +40,7 @@ I enjoy contributing to open-source projects and continuously learning new techn
 **Cloud Platforms**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
 
+
 ---
 
 ## 💼 Projects
@@ -58,8 +59,8 @@ Here are a few projects I'm proud of:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushKK29&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushKK29&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KushKK29&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushKK29&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
