@@ -12,6 +12,9 @@ I enjoy contributing to open-source projects and continuously learning new techn
 
 ---
 
+![Hits](https://hits.sh/github.com/KushKK29.svg?label=Profile%20Views&extraCount=100&color=1136cc)
+
+
 ## 🛠️ Tech Stack
 
 **Languages**  
