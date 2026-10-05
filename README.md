@@ -65,7 +65,7 @@ AI-powered article generation project.
 </td>
 <td width="50%">
 
-**[Trade-Shala](#)**
+**[Trade-Shala](https://github.com/KushKK29/Trade_Shala)**
 Interactive stock market simulation platform for practicing trading strategies in real-time.
 
 </td>
