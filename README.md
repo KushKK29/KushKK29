@@ -1,94 +1,148 @@
-<h1 align="center">Hi there, I'm Kush Goel 👋</h1>
-<p align="center">
-  <i>Tech Enthusiast | Full-Stack Developer | Open Source Contributor</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kush%20Goel&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Lifelong+Learner" alt="Typing SVG" />
+
+<img src="https://hits.sh/github.com/KushKK29.svg?label=Profile%20Views&extraCount=100&color=1136cc" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-👋 I'm KushKK29 — passionate about technology, problem-solving, and building impactful software.  
+👋 I'm **KushKK29** — passionate about technology, problem-solving, and building impactful software.
 I enjoy contributing to open-source projects and continuously learning new technologies.
 
+- 🧠 Solving puzzles and algorithmic challenges
+- 🍜 Exploring new cuisines
+- 📚 Sci-fi movies for leisure learning
+
 ---
 
-![Hits](https://hits.sh/github.com/KushKK29.svg?label=Profile%20Views&extraCount=100&color=1136cc)
+### 🛠️ Tech Stack
 
+**Languages**
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java,html,css" />
 
-**Languages**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+**Frameworks & Libraries**
 
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,nextjs,bootstrap,tailwind" />
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+**Databases**
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
-**DevOps & Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode,npm" />
+
+**Cloud Platforms**
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" />
+
+**Other**
+
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat-square)
 ![Nodemailer](https://img.shields.io/badge/-Nodemailer-000000?logo=maildotru&logoColor=white&style=flat-square)
-
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white&style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 
 ---
 
-## 💼 Projects
+### 💼 Projects
 
-Here are a few projects I'm proud of:
+<table>
+<tr>
+<td width="50%">
 
-- **[Trade-Shala](#)** – An interactive stock market simulation platform for practicing trading strategies in real-time.
-- **[Chat App](#)** – Real-time chat application using React, Node.js, and Socket.io with private room functionality.
-- **[Sorting Visualizer](#)** – A web-based tool to visualize sorting algorithms with animations and performance metrics.
+**[Article.ai](https://github.com/KushKK29/Article.ai)**
+AI-powered article generation project.
 
+</td>
+<td width="50%">
+
+**[Trade-Shala](#)**
+Interactive stock market simulation platform for practicing trading strategies in real-time.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Portfolio](https://github.com/KushKK29/kush-portfolio)**
+Personal portfolio website.
+
+</td>
+<td width="50%">
+
+**[MHope](https://github.com/KushKK29/MHope)**
+Mental health support project.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[FreshDesk MCP](https://github.com/KushKK29/FreshDesk_MCP)**
+MCP server integration for FreshDesk.
+
+</td>
+<td width="50%">
+
+**[Voice Agent](https://github.com/KushKK29/Voice-agent)**
+Voice-based conversational agent.
+
+</td>
+</tr>
+</table>
 
 👉 Explore more in my [repositories](https://github.com/KushKK29?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KushKK29&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushKK29&layout=compact&theme=transparent" height="150"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=KushKK29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushKK29&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-## 🔥 Contribution Activity
+<img src="https://streak-stats.demolab.com/?user=KushKK29&theme=tokyonight&hide_border=true" height="165"/>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KushKK29&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
 
-## ✨ Fun Facts
+### 🐍 Contribution Snake
 
-- 🧠 I enjoy solving puzzles and algorithmic challenges.
-- 🍜 I love exploring new cuisines.
-- 📚 Sci-fi movies are my go-to for leisure learing new things.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KushKK29/KushKK29/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<sub>Snake graph self-hosted via GitHub Action — see setup note below.</sub>
 
 ---
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kush-goel-004054277/)
-- 📧 kush282930@gmail.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kush-goel-004054277/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kush282930@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/KushKK29"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</div>
 
 Feel free to reach out for **collaborations**, **open-source contributions**, or just to say hi!
 
 ---
 
-⭐ *If you like what you see, consider following me or starring a project. Your support means a lot!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<div align="center">⭐ If you like what you see, consider following me or starring a project. Your support means a lot! ⭐</div>
